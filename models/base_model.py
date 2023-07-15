@@ -1,4 +1,7 @@
-rent class that will inherit
+#!/usr/bin/pyhon3
+this is hibee
+"""
+parent class that will inherit
 """
 import uuid
 from datetime import datetime
