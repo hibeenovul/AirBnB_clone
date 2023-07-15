@@ -1,5 +1,4 @@
 #!/usr/bin/pyhon3
-this is hibee
 """
 parent class that will inherit
 """
